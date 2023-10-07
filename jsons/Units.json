@@ -5,9 +5,9 @@
 		"cost": 100,
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "[+25]% Strength bonus for [Military] units within [1] tiles",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Great Person - [War]", "Unbuildable", "Uncapturable", "Can be purchased with [Gold]", "Free [Melee] appears <by consuming this unit>"],
+			"Great Person - [War]", "Unbuildable", "Uncapturable", "Can be purchased with [Gold] [in all cities]"],
 		"movement": 2
 	},
 ]
