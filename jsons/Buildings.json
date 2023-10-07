@@ -1,15 +1,13 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Italy",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Banca",
+		"gold": 2,
+		"replaces": "Bank"
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25, "Culture": 25},
+		"requiredBuilding": "Market",
+		"uniques": ["[-10]% Unhappiness from [Population] [in all cities]"],
+		"requiredTech": "Banking"
 	},
 ]

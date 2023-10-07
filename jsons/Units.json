@@ -4,6 +4,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Italy",
 		"cost": 100,
+		"replaces": "Great General",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "[+25]% Strength bonus for [Military] units within [1] tiles",
