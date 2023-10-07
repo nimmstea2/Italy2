@@ -2,12 +2,11 @@
 	{
 		"name": "Banca",
 		"gold": 3,
-		"culture": 3,
-		"replaces": "Bank"
+		"replaces": "Bank",
 		"uniqueTo": "Italy",
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 25, "culture": 26},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
