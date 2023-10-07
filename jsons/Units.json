@@ -2,6 +2,7 @@
 	{
 		"name": "Condottiero",
 		"unitType": "Civilian",
+		"uniqueTo": "Italy",
 		"cost": 100,
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
