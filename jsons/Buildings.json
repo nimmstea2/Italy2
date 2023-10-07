@@ -6,7 +6,7 @@
 		"uniqueTo": "Italy",
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25, "Culture": 25},
+		"percentStatBonus": {"gold": 25, "culture": 25},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
